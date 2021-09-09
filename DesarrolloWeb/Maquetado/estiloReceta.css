@@ -1,0 +1,105 @@
+.ingredientesTitulo, .informacionExtra {
+    font-size: 90%;
+    font-family: right;
+}
+
+.informacionExtra {
+    padding-bottom: 4%;
+}
+
+.infoReceta {
+    align-items: center;
+}
+.limones{
+   width: auto;
+   height: 18px;
+}
+
+.gorroChef{
+    width: auto;
+    height: 18px;
+}
+
+#botonNoGuardar {
+    left: 30%;
+}
+
+#botonGuardar {
+    margin: 0 auto;
+    position: relative;
+}
+
+#botonEliminarReceta{
+    left: 19%;
+}
+
+
+#botonAniadirAlMenu, #quitarMenu {
+    left: 60%;
+}
+
+#botonGuardarIzquierda {
+    left: 29%;
+    position:absolute ;
+}
+.contenedorBotones{
+    height: 100px;
+}
+
+.modalAniadirAlMenu:focus{
+    border-color: #F2AF5C;
+    box-shadow: none;
+}
+
+.modalAniadirAlMenu{
+    outline:none;
+    border-color: #F2AF5C;
+    border-radius: .25rem;
+    line-height: 1.5;
+    width: 293px;
+}
+#cantPersonas{
+    border: 1px solid #F2AF5C;
+}
+.puntuarReceta{
+    font-family: right;
+    color: #F2AF5C;
+    font-size: 15px;
+    float: right;
+    display: block;
+    text-align: right;
+
+}
+.puntuarReceta:hover, .puntuarReceta:focus{
+    color: #F2AF5C;
+    background-color: transparent;
+
+}
+.modalForms {
+    width: 80%;
+    top: 30%;
+    left: 10%;
+}
+.imagenModal {
+    width: 40px;
+    height: 40px;
+}
+.tituloReceta{
+    font-size: 5vh;
+    word-wrap: break-word;
+    font-family: right;
+}
+.errorAlAgregar{
+    color: #F2AF5C;
+}
+@media (min-width: 420px) {
+    .limones{
+        width: 4%;
+        height: auto;
+    }
+
+    .gorroChef{
+        width: 5%;
+        height: auto;
+    }
+}

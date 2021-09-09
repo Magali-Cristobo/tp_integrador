@@ -1,0 +1,26 @@
+.contenedor {
+    font-family: right;
+}
+
+.titulo {
+    margin-left: 10%;
+    margin-top: 20%;
+    margin-bottom: 10%;
+    font-family: right;
+}
+
+.bi-calendar-week {
+    margin: 10%;
+}
+
+.cuadrillaNaranja {
+    background-color: #F2AF5C;
+    height: 50px;
+}
+
+.cuadrillaGris {
+    background-color: antiquewhite;
+    height: 50px;
+    border: none;
+    width: 50px;
+}

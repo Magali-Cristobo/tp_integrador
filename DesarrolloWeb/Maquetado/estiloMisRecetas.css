@@ -1,0 +1,134 @@
+#divGorros {
+    margin: 0 auto;
+}
+
+.imagenModal {
+    width: 25px;
+    height: 25px;
+}
+
+#imagenB64{
+    display: none;
+}
+
+.mensajeError{
+    visibility: hidden;
+    color: #F2AF5C;
+    font-family: right;
+    margin: 0 auto;
+}
+
+.divTitulo {
+    background-color: #F2AF5C;
+    font-family: right;
+}
+.titulo{
+    font-family: right;
+}
+
+.inputIngresarIngrediente {
+    width: 85%;
+    display: inline-block;
+    height: auto;
+    font-size: 12px;
+}
+.inputIngresarPasos{
+    width: 90%;
+    margin-bottom: 2%;
+    font-size: 12px;
+}
+.pasos{
+    width: 100%;
+}
+.inputUnidad {
+    width: 100%;
+    display: block;
+    height: auto;
+    font-size:12px ;
+}
+.inputUnidad:focus{
+    box-shadow: none;
+    border-color:#F2AF5C;
+}
+
+.inputCantidad{
+    width: 100%;
+}
+
+.botonAgregarIngrediente {
+    margin-bottom: 0.5%;
+}
+
+.contenedorParteInferior {
+    height: auto;
+    width: 100%;
+    display: block;
+    background-color: antiquewhite;
+    position: relative;
+}
+
+.checkboxItem {
+    margin: 1%;
+    margin-top: 2%;
+}
+
+.itemsDeLaLista, .listaDePasos {
+    font-family: right;
+    padding-right: 2%;
+    font-size: 14px;
+}
+
+.informacionExtra{
+    padding-bottom: 0%;
+}
+.itemsAgregados{
+    padding-top: 2%;
+}
+.listaDePasos{
+    height: auto;
+}
+.itemsDeLaLista{
+    height: 32%;
+}
+.elementoAgregado{
+    padding-bottom: 2%;
+    word-break: break-word;
+    width: 96%;
+    font-size: 12px;
+}
+
+.cruz{
+    position: absolute;
+    top: 5%;
+    right: 5px;
+}
+.tituloBoton{
+    color: #F2AF5C;
+    text-decoration: none;
+}
+.tituloBoton:hover{
+    color: #F2AF5C;
+}
+
+#botonGuardarMiReceta {
+    background-color: #F2AF5C;
+    font-family: right;
+    font-size: 15px;
+    margin: 0 auto;
+    color: #FEEEB3;
+}
+#botonGuardarMiReceta:focus{
+    box-shadow: none;
+}
+@media (min-width: 500px) {
+    .botonAgregarIngrediente{
+        width: 1em;
+        height: 1em;
+    }
+    .inputIngresarPasos,.inputIngresarIngrediente{
+        font-size: 14px;
+    }
+    .elementoAgregado{
+        font-size: 14px;
+    }
+}

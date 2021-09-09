@@ -1,0 +1,47 @@
+.carrusel {
+    width: 80%;
+    margin: 0 auto;
+}
+.contenedor{
+    margin-bottom: 10%;
+}
+
+.fila {
+    display: block;
+}
+
+/* estilos carousel */
+.gallery {
+    background: transparent;
+    height: 80px;
+}
+
+.gallery-cell {
+    width: 35%;
+    height: 80px;
+    margin-right: 10px;
+    counter-increment: gallery-cell;
+    background-repeat: no-repeat;
+    background-size: 51px;
+    background-position: center;
+}
+
+.flickity-prev-next-button {
+    width: 25px;
+    height: 25px;
+}
+.items{
+    font-family: right;
+}
+@media (min-width: 576px) {
+    .gallery{
+        height: 15%;
+    }
+    .gallery-cell{
+        height: 100%;
+        background-size: 100px;
+    }
+    .flickity-viewport{
+        height: 100%;
+    }
+}

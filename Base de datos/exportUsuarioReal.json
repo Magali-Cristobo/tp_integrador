@@ -1,0 +1,309 @@
+[{
+  "_id": {
+    "$oid": "5f65029f87324b2950a4d8e8"
+  },
+  "clave": "peladaLaGallina2020",
+  "idUsuario": 0,
+  "mail": "listoPollo@gmail.com",
+  "nombre": "Listo el pollo"
+},{
+  "_id": {
+    "$oid": "5f65029f87324b2950a4d8eb"
+  },
+  "clave": "qwer1234",
+  "idUsuario": 3,
+  "mail": "pedro.fernandez2003@gmail.com",
+  "nombre": "Pedro",
+  "despensa": [
+    {
+      "producto": 7790742162106,
+      "cantidad": 3
+    },
+    {
+      "producto": 7723452234556,
+      "cantidad": 2
+    },
+    {
+      "producto": 7709827347833,
+      "cantidad": 10
+    }
+  ],
+  "recetasGuardadas": [
+    1,
+    3,
+    6
+  ],
+  "recetasCalificadas": [
+    1,
+    6,
+    9
+  ],
+  "listaDeCompras": [
+    {
+      "idLista": 0,
+      "nombre": "Compras super",
+      "items": [
+        {
+          "id": 0,
+          "descripcion": "Jamon",
+          "estado": false
+        },
+        {
+          "id": 1,
+          "descripcion": "Queso",
+          "estado": false
+        }
+      ]
+    },
+    {
+      "nombreLista": "Voso",
+      "idLista": 1,
+      "items": [
+        {
+          "descripcion": "Hola",
+          "estado": false,
+          "id": 0
+        },
+        {
+          "descripcion": "Hola2",
+          "estado": false,
+          "id": 1
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f65029f87324b2950a4d8ec"
+  },
+  "clave": "Acha4356",
+  "idUsuario": 4,
+  "mail": "juanPerezFigueroa@gmail.com",
+  "nombre": "Juan",
+  "menuSemanal":[
+    {
+      "idReceta":2,
+      "momento":"Cena",
+      "cantidadPersonas":5,
+      "fecha":"Jueves"
+    },
+    {
+      "idReceta":0,
+      "momento":"Merienda",
+      "cantidadPersonas":5,
+      "fecha":"25/10/2020"}
+  ],
+  "despensa": [],
+  "recetasGuardadas": [],
+  "recetasCalificadas": [],
+  "listaDeCompras": [
+    {
+      "nombreLista": "Compras",
+      "idLista": 0,
+      "items": [
+        {
+          "descripcion": "Calabaza",
+          "estado": false,
+          "id": 0
+        },
+        {
+          "descripcion": "Papas",
+          "estado": false,
+          "id": 1
+        },
+        {
+          "descripcion": "Banana",
+          "estado": false,
+          "id": 2
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f870be2ab2db0411c8b51e4"
+  },
+  "idUsuario": 2,
+  "nombre": "Magali",
+  "clave": "magaMaga",
+  "mail": "magalisol2009@gmail.com",
+  "menuSemanal":[  ],
+  "recetasGuardadas": [
+    5,
+    19
+  ],
+  "recetasCalificadas": [
+    1,
+    0,
+    4,
+    3
+  ],
+  "listaDeCompras": [
+    {
+      "idLista": 0,
+      "nombreLista": "Probando o",
+      "items": [
+        {
+          "descripcion": "Leche",
+          "estado": true,
+          "id": 0
+        },
+        {
+          "descripcion": "Harina 0000",
+          "estado": false,
+          "id": 1
+        },
+        {
+          "descripcion": "Huevos",
+          "estado": false,
+          "id": 2
+        },
+        {
+          "descripcion": "calabaza",
+          "estado": false,
+          "id": 3
+        },
+        {
+          "descripcion": "banana",
+          "estado": false,
+          "id": 4
+        }
+      ]
+    },
+    {
+      "nombreLista": "listaa",
+      "idLista": 1,
+      "items": []
+    }
+  ],
+  "despensa": [
+    {
+      "producto": 7794820901588,
+      "cantidad": 3
+    },
+    {
+      "producto": 7793704000232,
+      "cantidad": 4
+    },
+    {
+      "producto": 7709827347833,
+      "cantidad": 2
+    },
+    {
+      "producto": 7790150211625,
+      "cantidad": 5
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f870bb4ab2db0411c8b51e3"
+  },
+  "idUsuario": 1,
+  "nombre": "Martin",
+  "clave": "Yaco2018",
+  "mail": "martinbarbieri17@gmail.com",
+  "menuSemanal":[],
+  "recetasGuardadas": [
+    3,
+    4
+  ],
+  "recetasCalificadas": [
+    3
+  ],
+  "listaDeCompras": [
+    {
+      "idLista": 0,
+      "nombreLista": "Compras verduleria",
+      "items": [
+        {
+          "id": 0,
+          "descripcion": "Papas",
+          "estado": false
+        },
+        {
+          "id": 1,
+          "descripcion": "Remolacha",
+          "estado": true
+        },
+        {
+          "descripcion": "calabaza",
+          "estado": false,
+          "id": 2
+        }
+      ]
+    },
+    {
+      "idLista": 1,
+      "nombreLista": "Compras",
+      "items": [
+        {
+          "id": 0,
+          "descripcion": "Yogurth dahí con frutillas",
+          "estado": false
+        },
+        {
+          "id": 1,
+          "descripcion": "Biscuits ",
+          "estado": true
+        },
+        {
+          "descripcion": "Papas",
+          "estado": false,
+          "id": 5
+        }
+      ]
+    },
+    {
+      "nombreLista": "Prueba",
+      "idLista": 2,
+      "items": []
+    }
+  ],
+  "despensa": [
+    {
+      "producto": 7790742162106,
+      "cantidad": 10
+    },
+    {
+      "producto": 7790070318640,
+      "cantidad": 5
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fa43dfb04fba88e28cb843f"
+  },
+  "idUsuario": 5,
+  "nombre": "rulessero",
+  "mail": "rulessero@gmail.com",
+  "clave": "Benjamin1510",
+  "despensa": [],
+  "menuSemanal":[],
+  "listaDeCompras": [
+    {
+      "nombreLista": "Lista de compras",
+      "idLista": 0,
+      "items": [
+        {
+          "descripcion": "Manzana",
+          "estado": true,
+          "id": 0
+        },
+        {
+          "descripcion": "Pera",
+          "estado": false,
+          "id": 1
+        },
+        {
+          "descripcion": "Bananas",
+          "estado": false,
+          "id": 2
+        }
+      ]
+    }
+  ],
+  "recetasGuardadas": [],
+  "recetasCalificadas": [
+    15
+  ]
+}]

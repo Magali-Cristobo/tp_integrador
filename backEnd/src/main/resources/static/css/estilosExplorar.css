@@ -1,0 +1,139 @@
+.botonExplorar {
+    height: 100px;
+    font-size: 15px;
+    border-color: #F2AF5C;
+    color: #F2AF5C;
+    font-family: right;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.botonExplorar:hover {
+    color: #F2AF5C;
+}
+
+.botonExplorar:focus {
+    outline: 0;
+    box-shadow: 0 0 0 0.0rem #F2AF5C;
+}
+
+.tituloReceta {
+    font-size: 12px;
+    color: #F2AF5C; /*no se si naranja u otro color*/
+}
+
+.row {
+    text-align: center;
+}
+
+/* opcion botones grises */
+/* .botonDesplegable{
+    border-color: #F2AF5C;
+    color: #F2AF5C;
+    font-family: right;
+}
+.botonDesplegable:hover{
+    color: #F2AF5C;
+}
+.botonDesplegable:focus {
+    outline: 0;
+    box-shadow: 0 0 0 0.0rem  #F2AF5C;
+} */
+/*  */
+.botonDesplegable {
+    background-color: #F2AF5C;
+    border-color: #F2AF5C;
+    color: white;
+    font-family: right;
+}
+
+.botonDesplegable:hover {
+    color: white;
+}
+
+.botonDesplegable:focus {
+    outline: 0;
+    box-shadow: 0 0 0 0.0rem #F2AF5C;
+}
+
+.itemMenu {
+    font-family: right;
+    color: #F2AF5C;
+    padding: 5px 20px 0px 10px;
+}
+
+.menuDesplegable {
+    width: auto;
+    min-width: 0px;
+}
+
+/* #exampleModal{
+    width: 60%;
+    top: 40%;
+    left: 20%;
+} */
+#cuerpoModal {
+    margin: 0 auto;
+}
+
+#botonAceptar {
+    margin: 0 auto;
+    margin-top: 20px;
+    background-color: #F2AF5C;
+    border: none;
+    border-radius: 2px;
+    font-family: "right";
+    color: white;
+    display: block;
+    height: 40px;
+    width: 100px;
+}
+
+@font-face {
+    font-family: "right"; /* para la foto del carousel */
+    src: url("Fuentes/RIGHT.otf") format("woff2"); /* chrome、firefox */
+}
+
+#divGorros {
+    margin: 0 auto;
+}
+
+.imagenModal {
+    width: 40px;
+    height: 40px;
+}
+
+.modalForms {
+    width: 80%;
+    top: 30%;
+    left: 10%;
+}
+
+.tituloAcordeon {
+    text-decoration: none;
+    color: white;
+    font-family: right;
+    width: 100%; /*le pongo 100% para que puedas tocar cualquier parte del div naranja*/
+    text-align: left;
+}
+
+.divTitulo {
+    background-color: #F2AF5C;
+    font-family: right;
+}
+
+.tituloAcordeon:focus {
+    box-shadow: none;
+    text-decoration: none;
+    color: white;
+}
+
+.ingrediente {
+    display: block;
+}
+
+input[type="checkbox"] {
+    margin-right: 5px;
+}

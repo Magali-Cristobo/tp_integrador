@@ -1,0 +1,47 @@
+.botonAniadir{
+    height: 100px;
+    font-size: 15px;
+    border-color: black;
+    color: black;
+    font-family: right;
+    width: 90%;
+}
+
+#aniadir {
+    border-color: black;
+    color: black;
+}
+
+.botonConBorde {
+    height: 100px;
+    font-size: 2vh;
+    border-color: #F2AF5C;
+    color: #F2AF5C;
+    font-family: right;
+    margin-bottom: 23px;
+}
+
+.botonConBorde:hover {
+    color: #F2AF5C;
+}
+
+.botonConBorde:focus {
+    outline: 0;
+    box-shadow: 0 0 0 0.0rem #F2AF5C;
+}
+.tituloBoton{
+    color: #F2AF5C;
+    text-decoration: none;
+    word-wrap: break-word;
+}
+.tituloBoton:hover {
+    color: #F2AF5C;
+    text-decoration: none;
+}
+#nombreLista{
+    outline:none;
+    border-radius: .25rem;
+    line-height: 1.5;
+    border: 1px solid #F2AF5C;
+}
+

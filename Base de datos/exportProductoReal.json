@@ -1,0 +1,74 @@
+[{
+  "_id": {
+    "$oid": "5f6501ef87324b2950a4d8e2"
+  },
+  "id": "7790742162106",
+  "nombre": "Leche ",
+  "marca": "La serenisima",
+  "imagen": "Productos/lecheLaSerenisimaVerde.jpg",
+  "categoria": "Lacteos"
+},{
+  "_id": {
+    "$oid": "5f6501ef87324b2950a4d8e3"
+  },
+  "id": "7790070318640",
+  "nombre": "Spaghetti ",
+  "marca": "Matarazzo",
+  "imagen": "Productos/spaghettiMatarazzo.png",
+  "categoria": "PastasSecas"
+},{
+  "_id": {
+    "$oid": "5f6501ef87324b2950a4d8e4"
+  },
+  "id": "7723452234556",
+  "nombre": "Coca-Cola",
+  "marca": "Coca-Cola Company",
+  "imagen": "Productos/cocaCola.png",
+  "categoria": "BebidasGasificadas"
+},{
+  "_id": {
+    "$oid": "5f6501ef87324b2950a4d8e5"
+  },
+  "id": "7709827347833",
+  "nombre": "Cafe grano molido",
+  "marca": "Bonafide",
+  "imagen": "Productos/cafeMolidoBonafide.png",
+  "categoria": "Infusiones"
+},{
+  "_id": {
+    "$oid": "5f6501ef87324b2950a4d8e6"
+  },
+  "id": "7794820901588",
+  "nombre": "Queso crema",
+  "marca": "Milkaut",
+  "imagen": "Productos/quesoCremaMilkaut.png",
+  "categoria": "QuesosUntables"
+},{
+  "_id": {
+    "$oid": "5f6501ef87324b2950a4d8e7"
+  },
+  "id": "7790150211625",
+  "nombre": "Te",
+  "marca": "La Virginia",
+  "imagen": "Productos/teLaVirginia.jpg",
+  "categoria": "Infusiones"
+},{
+  "_id": {
+    "$oid": "5f6e7b219569f40da4b8487c"
+  },
+  "id": "7793704000232",
+  "nombre": "Yerba mate playadito",
+  "marca": "Playadito",
+  "imagen": "Productos/yerbaMatePlayadito2.png",
+  "categoria": "Infusiones"
+},
+  {
+    "_id": {
+      "$oid": "5f6e7b219569f40da4b8487c"
+    },
+    "id": "7790742172105",
+    "nombre": "Leche protein ",
+    "marca": "La serenisima",
+    "imagen": "Productos/lecheProtein.png",
+    "categoria": "Lacteos"
+  }]

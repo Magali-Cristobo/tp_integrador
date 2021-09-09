@@ -1,0 +1,1883 @@
+[{
+  "_id": {
+    "$oid": "5f64d26ec8ec4c27d04b5a66"
+  },
+  "id": 0,
+  "dificultad": 2,
+  "titulo": "Bizcochuelo de vainilla esponjoso ",
+  "imagen": "PlatosComida/BizcochueloVainilla.png",
+  "usuario": 0,
+  "calificacion": [
+    3,
+    2,
+    4,
+    5,
+    5,
+    5,
+    4,
+    4,
+    2,
+    5,
+    5
+  ],
+  "ingredientes": [
+    {
+      "nombre": "Huevos",
+      "cantidad": 4,
+      "unidad": ""
+    },
+    {
+      "nombre": "Azucar",
+      "cantidad": 400,
+      "unidad": "gramos"
+    },
+    {
+      "nombre": "Harina leudante",
+      "cantidad": 2,
+      "unidad": "tazas"
+    },
+    {
+      "nombre": "Leche",
+      "cantidad": 1,
+      "unidad": "taza"
+    },
+    {
+      "nombre": "Esencia de vainilla",
+      "cantidad": 1,
+      "unidad": "cucharadita"
+    },
+    {
+      "nombre": "Aceite",
+      "cantidad": 100,
+      "unidad": "ml"
+    }
+  ],
+  "pasos": [
+    {
+      "paso": "1",
+      "descripcion": "-Batir el azúcar con los huevos hasta que se integren completamente"
+    },
+    {
+      "paso": "2",
+      "descripcion": "-Tamizar la harina leudante antes de añadirla a la mezcla."
+    },
+    {
+      "paso": "3",
+      "descripcion": "-Agregar la mitad de la harina leudante y batir de forma envolvente."
+    },
+    {
+      "paso": "4",
+      "descripcion": "-Incorporar la leche y cuando ya se haya integrado, añadir el resto de la harina."
+    },
+    {
+      "paso": "5",
+      "descripcion": "-Añadir a la mezcla el aceite y la vainilla."
+    },
+    {
+      "paso": "6",
+      "descripcion": "-Batir unos unos minutos más y vaciar la mezcla del bizcochuelo en un molde apto para horno."
+    },
+    {
+      "paso": "7",
+      "descripcion": "-Hornear el bizcochuelo a 180 ºC por 45 minutos o hasta que al intorducir un aplillo salga seco."
+    },
+    {
+      "paso": "Truco",
+      "descripcion": ":Precalentar el horno así se cocina de maneara uniforme y una vez listo dejar reposar unos minutos antes de desmoldarlo"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f64d26ec8ec4c27d04b5a67"
+  },
+  "id": 1,
+  "dificultad": 3,
+  "titulo": "Salmon rosado a la parrilla",
+  "imagen": "PlatosComida/salmonRosado.png",
+  "usuario": 0,
+  "calificacion": [
+    5,
+    5,
+    5,
+    5,
+    3,
+    1,
+    4,
+    4,
+    2,
+    1,
+    1,
+    1,
+    1
+  ],
+  "ingredientes": [
+    {
+      "nombre": "Salmon",
+      "cantidad": 1,
+      "unidad": "Kg"
+    },
+    {
+      "nombre": "Cebolla de verdeo",
+      "cantidad": 0.25,
+      "unidad": "Kg"
+    },
+    {
+      "nombre": "Provolone rallado",
+      "cantidad": 25,
+      "unidad": "g"
+    },
+    {
+      "nombre": "Queso crema",
+      "cantidad": 150,
+      "unidad": "g"
+    },
+    {
+      "nombre": "Sal",
+      "cantidad": 5,
+      "unidad": "g"
+    },
+    {
+      "nombre": "Pimienta",
+      "cantidad": 5,
+      "unidad": "g"
+    }
+  ],
+  "pasos": [
+    {
+      "paso": "1",
+      "descripcion": "-Salpimentar el salmon y ponerlo a la parrilla con fuego bien bajo poor 20min"
+    },
+    {
+      "paso": "2",
+      "descripcion": "-Preparar en un bowls la cebolla de verdeo con rodajas finas el provolone rallado y una buena cucharada de queso crema, revolver bien"
+    },
+    {
+      "paso": "3",
+      "descripcion": "-Luego de los 30min a fuego bien bajo agregar la mezcla y dejar por otros 10min. Agregando un poco más de fuego. Cuanto se empieza a derretir el provolone ya está listo para servir."
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f64d34bc8ec4c27d04b5a68"
+  },
+  "id": 2,
+  "dificultad": 4,
+  "titulo": "Paella valenciana",
+  "imagen": "PlatosComida/paellaValenciana.png",
+  "usuario": 0,
+  "calificacion": [
+    3,
+    2,
+    4
+  ],
+  "ingredientes": [
+    {
+      "nombre": "Arroz bomba",
+      "cantidad": 400,
+      "unidad": "g"
+    },
+    {
+      "nombre": "Pollo",
+      "cantidad": 500,
+      "unidad": "g"
+    },
+    {
+      "nombre": "Conejo",
+      "cantidad": 500,
+      "unidad": "g"
+    },
+    {
+      "nombre": "Judías verdes",
+      "cantidad": 100,
+      "unidad": "g"
+    },
+    {
+      "nombre": "Garrofón",
+      "cantidad": 100,
+      "unidad": "g"
+    },
+    {
+      "nombre": "Tomate picado o triturado",
+      "cantidad": 100,
+      "unidad": "g"
+    },
+    {
+      "nombre": "Pimenton dulce",
+      "cantidad": 1,
+      "unidad": "cuchara"
+    },
+    {
+      "nombre": "Colorante",
+      "cantidad": 1,
+      "unidad": "Cuchara"
+    },
+    {
+      "nombre": "Azafrán",
+      "cantidad": 4,
+      "unidad": "hebras"
+    },
+    {
+      "nombre": "Romero",
+      "cantidad": 1,
+      "unidad": "Rama"
+    },
+    {
+      "nombre": "Agua",
+      "cantidad": 1.5,
+      "unidad": "l"
+    },
+    {
+      "nombre": "Aceite",
+      "cantidad": 1,
+      "unidad": "chorro"
+    },
+    {
+      "nombre": "Sal",
+      "cantidad": 1,
+      "unidad": "Pizca"
+    },
+    {
+      "nombre": "Caracoles (opcionales)",
+      "cantidad": 200,
+      "unidad": "g"
+    }
+  ],
+  "pasos": [
+    {
+      "paso": "1",
+      "descripcion": "-Limpiar y cortar el pollo y el conejo en trozos. Luego, salar las piezas al gusto. Por otro lado, cabe destacar que si usas garrofón tierno, podrás añadirlo directamente en el paso correspondiente, pero si es garrofón seco, deberás dejarlo en remojo la noche anterior y cocerlo antes de hacer la paella para que quede tierno."
+    },
+    {
+      "paso": "2",
+      "descripcion": "-Poner una paella al fuego con un buen chorro de aceite de oliva. Cuando esté caliente, incorporar los trozos de carne y dejar que se doren por todos lados a fuego medio-alto."
+    },
+    {
+      "paso": "3",
+      "descripcion": "-Lavar las judías verdes, cortar las puntas y trocearlas. Cuando esté la carne dorada,déjala en un lado de la paella y añadir las judías verdes. Dejar que se cocinen unos minutos, los suficientes para que se doren un poco. En algunas zonas se considera que la paella valenciana auténtica debe llevar caracoles. Sin embargo, al no ser así en todos los lugares, te dejamos decidir si quieres o no añadirlos. En caso afirmativo, deberás agregarlos con las judías, previamente lavados."
+    },
+    {
+      "paso": "4",
+      "descripcion": "-Si ves que no hay mucho aceite, ve añadiendo. Agregar el tomate natural picado o triturado, remover y dejar que se cocine durante 5 minutos a fuego medio. Incorporar el pimentón dulce y remover bien. Lo ideal es hacer la paella valenciana con tomate natural, pero si no tienes, puedes usar tomate triturado de bote (preferiblemente natural y no frito).."
+    },
+    {
+      "paso": "5",
+      "descripcion": "-Verter el agua, poner 1 litro y medio o algo más porque se irá consumiendo. Añadir un poco de sal y dejar que se cocine la carne 15 minutos más."
+    },
+    {
+      "paso": "6",
+      "descripcion": "-A mitad de la cocción, agregar los garrofones. Añadir el colorante, el azafrán en hebra y la rama de romero, que puedes poner en un lado para luego poder quitarla fácilmente."
+    },
+    {
+      "paso": "7",
+      "descripcion": "-Pasados los 15 minutos, probar de sal y verter un poco más de agua si es necesario. Es un poco difícil de calcular, pero debe haber el doble de agua que de arroz. Cuando el agua empiece a hervir, añadir el arroz y repartirlo bien para no tocarlo durante la cocción. Dejar que se cocine la paella valenciana durante 5-8 minutos a fuego fuerte."
+    },
+    {
+      "paso": "8",
+      "descripcion": "-Bajar a fuego medio y dejar que se siga el arroz unos 10 minutos más. Tener en cuenta que el tiempo de cocción puede variar en función del tipo de arroz y del tipo de fuego. Si te gusta que quede un poco socarrat, es decir, que se pegue un poquito en el fondo, poner el fuego fuerte al final, unos 2-3 minutos antes de que se termine de cocinar."
+    },
+    {
+      "paso": "9",
+      "descripcion": "-Dejar reposar unos 5 minutos y ya está lista la receta."
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f64d405c8ec4c27d04b5a69"
+  },
+  "id": 3,
+  "dificultad": 3,
+  "titulo": "Croissant o Medialunas de Manteca",
+  "imagen": "PlatosComida/medialunas.png",
+  "usuario": 0,
+  "calificacion": [
+    5,
+    1
+  ],
+  "ingredientes": [
+    {
+      "nombre": "Harina 000",
+      "cantidad": 550,
+      "unidad": "g"
+    },
+    {
+      "nombre": "Azucar",
+      "cantidad": 140,
+      "unidad": "g"
+    },
+    {
+      "nombre": "Manteca",
+      "cantidad": 130,
+      "unidad": "g"
+    },
+    {
+      "nombre": "Huevo",
+      "cantidad": 1,
+      "unidad": ""
+    },
+    {
+      "nombre": "Agua",
+      "cantidad": 100,
+      "unidad": "ml"
+    },
+    {
+      "nombre": "Leche",
+      "cantidad": 100,
+      "unidad": "ml"
+    },
+    {
+      "nombre": "Sal",
+      "cantidad": 1,
+      "unidad": "pizca"
+    },
+    {
+      "nombre": "Levadura fresca",
+      "cantidad": 25,
+      "unidad": "g"
+    }
+  ],
+  "pasos": [
+    {
+      "paso": "1",
+      "descripcion": "-En un bols ponemos la levadura, una cucharadita de azúcar, una cucharadita de harina, le colocamos el agua tibia y revolvemos bien, eso lo tapamos con un trapo y dejamos 5 minutos hasta que se forme un colchón espumosos"
+    },
+    {
+      "paso": "2",
+      "descripcion": "-En un recipiente donde vamos a formar la masa, colocamos la harina, espolvoreamos la sal, colocamos la leche y la manteca derretida a temperatura ambiente importante no esté hirviendo por que puede dañar la acción de la levadura"
+    },
+    {
+      "paso": "3",
+      "descripcion": "-Una vez colocado todos los ingredientes revolvemos bien, y colocamos la esponja de levadura hecha en el paso 1, amasamos bien hasta que queda una masa uniforme."
+    },
+    {
+      "paso": "4",
+      "descripcion": "-A la masa obtenida la tapamos con un papel film y dejamos reposar en un lugar cálido una hora, que la masa duplique su tamaño"
+    },
+    {
+      "paso": "5",
+      "descripcion": "-Pasado el tiempo de 1hs y con la masa duplicada, la estiramos hasta obtener una masa de un centímetro de grosor y cortamos en forma de triángulo le hacemos un pequeño corte en la parte más gruesa en el medio"
+    },
+    {
+      "paso": "6",
+      "descripcion": "-Una vez teniendo los triángulos de masa y el pequeño corte en la base empezamos a enrollar, los mismos los vamos colocando en una fuente enmantecada, una vez llena la fuente tapamos con un trapo y lo dejamos reposar 45 minutos que vuelvan a duplicar su tamaño"
+    },
+    {
+      "paso": "7",
+      "descripcion": "-Ya con los croissant duplicados y listos llevamos a horno a 180 grados durante 20 minutos hasta que doren, los retiramos y pincelamos con almíbar y si queremos espolvoreamos con azúcar impalpable... Y a disfrutar!!!"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f64d416c8ec4c27d04b5a6a"
+  },
+  "id": 4,
+  "dificultad": 2,
+  "titulo": "Guiso de lentejas",
+  "imagen": "PlatosComida/guisoDeLentejas.png",
+  "usuario": 0,
+  "calificacion": [
+    2,
+    3,
+    4,
+    2,
+    2,
+    3,
+    4,
+    4,
+    3
+  ],
+  "ingredientes": [
+    {
+      "nombre": "Lentejas",
+      "cantidad": 500,
+      "unidad": "g"
+    },
+    {
+      "nombre": "Salchicha parillera o chorizo colorado",
+      "cantidad": 1,
+      "unidad": ""
+    },
+    {
+      "nombre": "Cebolla",
+      "cantidad": 1,
+      "unidad": ""
+    },
+    {
+      "nombre": "Ajo",
+      "cantidad": 2,
+      "unidad": ""
+    },
+    {
+      "nombre": "Morron",
+      "cantidad": 0.5,
+      "unidad": ""
+    },
+    {
+      "nombre": "Pure de tomate",
+      "cantidad": 1,
+      "unidad": ""
+    },
+    {
+      "nombre": "Caldo",
+      "cantidad": 0.5,
+      "unidad": "l"
+    },
+    {
+      "nombre": "Papa",
+      "cantidad": 1,
+      "unidad": ""
+    },
+    {
+      "nombre": "Zanahoria",
+      "cantidad": 1,
+      "unidad": ""
+    }
+  ],
+  "pasos": [
+    {
+      "paso": "1",
+      "descripcion": "-Hervir por 10 minutos las lentejas. Use las que vienen remojadas en cajita. Colar y reposar"
+    },
+    {
+      "paso": "2",
+      "descripcion": "-En una sartén sellar la salchichita de ambos lados. En otra sartén reahogar la cebolla los dos ajos y el morrón colorado. Una vez que la cebolla está transparente agregar el puré de tomates, de a poco ir incorporando el caldo."
+    },
+    {
+      "paso": "3",
+      "descripcion": "-Agregamos la papa y zanahoria cortadas en cubos chicos. Condimentar: usé solo sal y pimienta, pero pueden poner ají molido o lo que a ustedes les guste. Mezclamos y por último ponemos las lentejas."
+    },
+    {
+      "paso": "4",
+      "descripcion": "-Cocinar a fuego medio/bajo, durante aproximadamente una hora. Cuando las papas están blanditas retiramos del fuego. Espero que disfruten de esta receta, me encanta como quedan, es uno de los platos más ricos que hay, además de todo el aporte vitamínico que tienen las lentejas "
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f64d480c8ec4c27d04b5a6b"
+  },
+  "id": 5,
+  "dificultad": 2,
+  "titulo": "Carne al horno",
+  "imagen": "PlatosComida/carneAlHorno.png",
+  "usuario": 0,
+  "calificacion": [
+    5
+  ],
+  "ingredientes": [
+    {
+      "nombre": "Colita de cuadril",
+      "cantidad": 1,
+      "unidad": "kg"
+    },
+    {
+      "nombre": "Salsa de soja",
+      "cantidad": 1,
+      "unidad": "Cucharada"
+    },
+    {
+      "nombre": "Aceite de oliva",
+      "cantidad": 1,
+      "unidad": "cucharada"
+    },
+    {
+      "nombre": "Mostaza",
+      "cantidad": 1,
+      "unidad": "Cucharada"
+    },
+    {
+      "nombre": "Miel",
+      "cantidad": 0.5,
+      "unidad": "Cucharada"
+    },
+    {
+      "nombre": "Romero",
+      "cantidad": 1,
+      "unidad": "Ramita"
+    },
+    {
+      "nombre": "Condimento para carnes",
+      "cantidad": 1,
+      "unidad": "Sobre"
+    },
+    {
+      "nombre": "Sal",
+      "cantidad": null,
+      "unidad": "A gusto"
+    },
+    {
+      "nombre": "Pimienta",
+      "cantidad": null,
+      "unidad": "A gusto"
+    }
+  ],
+  "pasos": [
+    {
+      "paso": "1",
+      "descripcion": "-Desgrasar la colita de cuadril y colocar en un recipiente hondo"
+    },
+    {
+      "paso": "2",
+      "descripcion": "-Agregar el aceite, la salsa de soja, la mostaza, la miel, el romero deshojado y el condimento para carnes."
+    },
+    {
+      "paso": "3",
+      "descripcion": "- Mezclar todo muy bien y untar la carne. Que quede bien cubierta de toda esa mezcla"
+    },
+    {
+      "paso": "4",
+      "descripcion": "-Tapar con film y dejar marinar mínimo media hora en la heladera. "
+    },
+    {
+      "paso": "5",
+      "descripcion": "-Precalentar horno a 180°C y forrar una asadera con papel aluminio"
+    },
+    {
+      "paso": "6",
+      "descripcion": "-Colocar la carne en el horno y toda la salsa y jugo por encima"
+    },
+    {
+      "paso": "7",
+      "descripcion": "-Levar al horno por 30 minutos aprox. "
+    },
+    {
+      "paso": "8",
+      "descripcion": "-Sacar al horno y dejar reposar la carne unos minutos en la asadera sin tocarle, porque si la cortan recién sacada del horno pierde todos sus jugos "
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f64d4a1c8ec4c27d04b5a6c"
+  },
+  "id": 6,
+  "dificultad": 1,
+  "titulo": "Riñones a la provenzal",
+  "imagen": "PlatosComida/riñonesALaProvenzal.png",
+  "usuario": 0,
+  "calificacion": [],
+  "ingredientes": [
+    {
+      "nombre": "Riñon",
+      "cantidad": 3,
+      "unidad": ""
+    },
+    {
+      "nombre": "Dientes de ajo",
+      "cantidad": 3,
+      "unidad": ""
+    },
+    {
+      "nombre": "Perejil",
+      "cantidad": 1,
+      "unidad": "puñado"
+    },
+    {
+      "nombre": "Vino blanco",
+      "cantidad": 200,
+      "unidad": "ml"
+    },
+    {
+      "nombre": "Aceite de oliva",
+      "cantidad": 1,
+      "unidad": "chorro"
+    },
+    {
+      "nombre": "Sal",
+      "cantidad": 1,
+      "unidad": "pizca"
+    },
+    {
+      "nombre": "Pimienta",
+      "cantidad": 1,
+      "unidad": "pizca"
+    }
+  ],
+  "pasos": [
+    {
+      "paso": "1",
+      "descripcion": "-Pon los riñones en una cacerola con abundante agua fría y caliéntala a fuego fuerte. Es importante que el agua esté fría y sin sal, ya que esta técnica es extractora de sabores, de manera que los sabores y aromas fuertes pasan al agua, al igual que las impurezas. En caso de que te gusten los sabores fuertes, evita este paso."
+    },
+    {
+      "paso": "2",
+      "descripcion": "-Una vez que el agua esté hirviendo, deja los riñones durante 2 minutos. Pasado el tiempo, cuela y lava los riñones."
+    },
+    {
+      "paso": "3",
+      "descripcion": "-Corta los riñones en rodajas de aproximadamente 1 centímetro y medio de grosor y resérvalas."
+    },
+    {
+      "paso": "4",
+      "descripcion": "-Pela y pica finamente los dientes de ajo y el perejil. Puedes hacer los riñones a la provenzal ajustando a tu gusto las cantidades de estos ingredientes. Nuevamente, también dependerá del tamaño de los órganos."
+    },
+    {
+      "paso": "5",
+      "descripcion": "-Calienta un chorro de aceite de oliva en una sartén, el suficiente como para cubrir toda la superficie. Cuando esté caliente, sella los riñones."
+    },
+    {
+      "paso": "Truco:",
+      "descripcion": "-No muevas mucho los riñones una vez colocados en la sartén, ya que expulsarían sus jugos y no se sellarían."
+    },
+    {
+      "paso": "6",
+      "descripcion": "-Pasados unos minutos, dales la vuelta y séllalos por el otro lado. Los riñones deben quedar bien crocantes de ambos lados."
+    },
+    {
+      "paso": "7",
+      "descripcion": "-Una vez sellados por ambos lados, agrega el ajo y perejil finamente picados para seguir con la receta de riñones a la provenzal."
+    },
+    {
+      "paso": "8",
+      "descripcion": "-Cuando el perejil y el ajo se hayan incorporado, vierte el vino blanco y deja reducir el alcohol durante unos minutos."
+    },
+    {
+      "paso": "9",
+      "descripcion": "-Cuando el vino se haya reducido casi por completo, los riñones estarán listos. Sirve tu receta de riñones a la provenzal inmediatamente para disfrutar de este plato caliente."
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f64d4c9c8ec4c27d04b5a6d"
+  },
+  "id": 7,
+  "dificultad": 2,
+  "titulo": "Postre Oreo y dulce de leche",
+  "imagen": "PlatosComida/postreOreo.png",
+  "usuario": 0,
+  "calificacion": [
+    3,
+    3
+  ],
+  "ingredientes": [
+    {
+      "nombre": "Bizcochuelo",
+      "cantidad": 1,
+      "unidad": ""
+    },
+    {
+      "nombre": "Galletitas Oreo",
+      "cantidad": 2,
+      "unidad": "paquetes"
+    },
+    {
+      "nombre": "Crema Chantilly",
+      "cantidad": 500,
+      "unidad": "g"
+    },
+    {
+      "nombre": "Dulce de leche repostero",
+      "cantidad": 500,
+      "unidad": "g"
+    },
+    {
+      "nombre": "Almibar",
+      "cantidad": 0,
+      "unidad": "C/n"
+    }
+  ],
+  "pasos": [
+    {
+      "paso": "1",
+      "descripcion": "-Hacemos un piso de biscochuelo humedecemos con almíbar y rompemos una galletita"
+    },
+    {
+      "paso": "2",
+      "descripcion": "-Con una manga y un pico (opcional) hacemos un piso de crema."
+    },
+    {
+      "paso": "3",
+      "descripcion": "-Hacemos un piso de dulce de leche, es más fácil si lo pones con manga, sino lo podés agregar con cuchara."
+    },
+    {
+      "paso": "4",
+      "descripcion": "-Rompemos otra galletita hacemos otro piso de crema y decoramos aplastando en el medio la última galletita"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f650ae087324b2950a4d8ed"
+  },
+  "id": 8,
+  "dificultad": 3,
+  "titulo": "Tarta de choclo ",
+  "imagen": "PlatosComida/tartaChoclo.png",
+  "usuario": 0,
+  "calificacion": [
+    5,
+    5,
+    4,
+    3,
+    2,
+    2
+  ],
+  "ingredientes": [
+    {
+      "nombre": "Choclo cremoso",
+      "cantidad": 1,
+      "unidad": "lata"
+    },
+    {
+      "nombre": "Choclo en grano",
+      "cantidad": 1,
+      "unidad": "lata"
+    },
+    {
+      "nombre": "Cebolla ",
+      "cantidad": 1,
+      "unidad": ""
+    },
+    {
+      "nombre": "Pimiento morrón",
+      "cantidad": 1,
+      "unidad": ""
+    },
+    {
+      "nombre": "Queso cremoso",
+      "cantidad": 100,
+      "unidad": "g"
+    },
+    {
+      "nombre": "Queso crema",
+      "cantidad": 70,
+      "unidad": "g"
+    },
+    {
+      "nombre": "Crema de leche o nata",
+      "cantidad": 1,
+      "unidad": "chorro"
+    },
+    {
+      "nombre": "Queso crema",
+      "cantidad": 70,
+      "unidad": "g"
+    },
+    {
+      "nombre": "Sal y pimienta",
+      "cantidad": null,
+      "unidad": "c/n"
+    }
+  ],
+  "pasos": [
+    {
+      "paso": "1",
+      "descripcion": "-Picar la cebolla y el pimiento pimiento rojo. En una sartén con un chorro de aceite saltear hasta que la cebolla esté transparente."
+    },
+    {
+      "paso": "2",
+      "descripcion": "-Escurrir la lata de choclo en granos y la agregamos a la sartén junto con la lata de choclo cremoso. Salpimentar y dejar cocinar entre 3 a 5 minutos más, no mas que eso. Es solo un golpe de calor para que tomen gusto entre todos los ingredientes."
+    },
+    {
+      "paso": "3",
+      "descripcion": "-En un bol mezclar el choclo, el queso crema, la crema de leche y la mitad del queso cremoso en cubitos y revolver hasta integrar."
+    },
+    {
+      "paso": "4",
+      "descripcion": "-Agregar el relleno a una tartera con la masa y colocar el resto del queso cremoso en cubos en la parte de arriba. Pueden ponerle tapa si gustan."
+    },
+    {
+      "paso": "5",
+      "descripcion": "-Llevar al horno a 180º hasta que esté dorada la masa y la superficie."
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f650ae087324b2950a4d8ee"
+  },
+  "id": 9,
+  "dificultad": 3,
+  "titulo": "Torta de banana ",
+  "imagen": "PlatosComida/tortaDeBanana.png",
+  "usuario": 1,
+  "calificacion": [],
+  "ingredientes": [
+    {
+      "nombre": "Bananas",
+      "cantidad": 2,
+      "unidad": "grandes"
+    },
+    {
+      "nombre": "Huevos",
+      "cantidad": 2,
+      "unidad": ""
+    },
+    {
+      "nombre": "Harina 0000 ",
+      "cantidad": 2,
+      "unidad": "tazas"
+    },
+    {
+      "nombre": "Aceite neutro",
+      "cantidad": 0.5,
+      "unidad": "taza"
+    },
+    {
+      "nombre": "Azúcar mascabo ",
+      "cantidad": 0.5,
+      "unidad": "taza"
+    },
+    {
+      "nombre": "Polvo de hornear",
+      "cantidad": 1,
+      "unidad": "cucharada"
+    },
+    {
+      "nombre": "Esencia de vainilla",
+      "cantidad": null,
+      "unidad": ""
+    },
+    {
+      "nombre": "Trozos de chocolate (opcional)",
+      "cantidad": null,
+      "unidad": ""
+    },
+    {
+      "nombre": "Azucar",
+      "cantidad": 1,
+      "unidad": "taza"
+    },
+    {
+      "nombre": "Agua",
+      "cantidad": 2,
+      "unidad": "cucharadas"
+    }
+  ],
+  "pasos": [
+    {
+      "paso": "1",
+      "descripcion": "-En una cacerolita, hacer el caramelo con el azúcar y las dos cucharadas de agua. Debe quedar un caramelo claro."
+    },
+    {
+      "paso": "2",
+      "descripcion": "-Esparcir el caramelo sobre un molde apto para horno cubriendo toda la base y los bordes. Una vez que se caramelice, enmantecar, como si fuese un molde normal. Cubriendo todo."
+    },
+    {
+      "paso": "3",
+      "descripcion": "-Poner en la licuadora las bananas trozadas y los huevos. Triturar a máxima potencia hasta que esté hecho el puré. "
+    },
+    {
+      "paso": "4",
+      "descripcion": "-Agregar el relleno a una tartera con la masa y colocar el resto del queso cremoso en cubos en la parte de arriba. Pueden ponerle tapa si gustan."
+    },
+    {
+      "paso": "5",
+      "descripcion": "-Incorporar (siempre en la licuadora) el aceite, la esencia de vainilla o la ralladura. Licuar hasta incorporar. Agregar el azúcar y la harina tamizada junto con el polvo de hornear de a poco. Si la licuadora queda  chica, se puede hacer de a partes o directamente, una vez que se tenga el puré de bananas y huevo, incorporar el resto en un bol."
+    },
+    {
+      "paso": "6",
+      "descripcion": "-Una vez que esté todo bien incorporado, agregar el chocolate picado grandes. Mezclar bien. "
+    },
+    {
+      "paso": "7",
+      "descripcion": "-Verter sobre el molde con caramelo. Llevar a un horno precalentado a 180° por aproximadamente una hora. O hasta que al pinchar la preparación, salga el palillo seco."
+    },
+    {
+      "paso": "8",
+      "descripcion": "-Desmoldar apenas sale del horno. Si se llega a quedar un poco pegado, llevar el molde a la hornalla para derretir el caramelo y volver a intentar."
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f650ae087324b2950a4d8ef"
+  },
+  "id": 10,
+  "dificultad": 4,
+  "titulo": "Salchichas de pollo caseras ",
+  "imagen": "PlatosComida/salchichasDePollo.png",
+  "usuario": 0,
+  "calificacion": [],
+  "ingredientes": [
+    {
+      "nombre": "Pollo fresco",
+      "cantidad": 400,
+      "unidad": "g"
+    },
+    {
+      "nombre": "Diente de ajo",
+      "cantidad": 0.5,
+      "unidad": ""
+    },
+    {
+      "nombre": "Mostaza ",
+      "cantidad": 1,
+      "unidad": "cucharada"
+    },
+    {
+      "nombre": "Harina",
+      "cantidad": 1,
+      "unidad": "cucharada"
+    },
+    {
+      "nombre": "Huevo ",
+      "cantidad": 1,
+      "unidad": ""
+    },
+    {
+      "nombre": "Sal y pimienta",
+      "cantidad": null,
+      "unidad": ""
+    }
+  ],
+  "pasos": [
+    {
+      "paso": "1",
+      "descripcion": "-Picar la carne de pollo. Podés hacerlo con la procesadora o pedirle al carnicero que te la pique."
+    },
+    {
+      "paso": "2",
+      "descripcion": "-Colocar en un bol con sal, pimienta (si es blanca, mejor), mostaza, el ajo picado, la cucharada de harina y el huevo. Mezclar bien hasta que esté completamente integrado todo."
+    },
+    {
+      "paso": "3",
+      "descripcion": "-Colocar en la mesada un papel film bien estiradito. Ahí vas a poner porciones de masa con forma de salchicha dejando un buen pedazo de film al costado de cada una"
+    },
+    {
+      "paso": "4",
+      "descripcion": "-Envolver cada salchicha en film procurando que no quede aire dentro (si queda un poco no pasa nada) y vas a cerrar las puntas como un caramelo dando vueltas y vueltas y vueltas. Colocar las salchichas en un plato y refrigerar un rato, mientras poner agua a hervir."
+    },
+    {
+      "paso": "5",
+      "descripcion": "-Cuando el agua esté hirviendo, poné las salchichas en la olla CON el papel film y cociná por unos 8 minutos. Sacá la olla, tirá el agua y, cuando ya no estén calientes, quitales el papel film. Verás que presionando un poco de un lado salen por el otro. "
+    },
+    {
+      "paso": "6",
+      "descripcion": "- Poner un chorrito de aceite de oliva en una sartén y saltealas unos minutos de cada lado hasta que estén bien bien doraditas. "
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f6513e587324b2950a4d8f0"
+  },
+  "id": 11,
+  "dificultad": 4,
+  "titulo": "Bizcochos de grasa agridulces",
+  "imagen": "PlatosComida/bizcochosDeGrasaAgridulce.png",
+  "usuario": 0,
+  "calificacion": [],
+  "ingredientes": [
+    {
+      "nombre": "Harina",
+      "cantidad": 500,
+      "unidad": "g"
+    },
+    {
+      "nombre": "Grasa",
+      "cantidad": 150,
+      "unidad": "g"
+    },
+    {
+      "nombre": "Agua",
+      "cantidad": 250,
+      "unidad": "cc"
+    },
+    {
+      "nombre": "Levadura fresca",
+      "cantidad": 20,
+      "unidad": "g"
+    },
+    {
+      "nombre": "Azucar",
+      "cantidad": 1,
+      "unidad": "cucharadita"
+    },
+    {
+      "nombre": "Sal",
+      "cantidad": 0.5,
+      "unidad": "Cucharada"
+    },
+    {
+      "nombre": "Azucar extra para espolvorear",
+      "cantidad": null,
+      "unidad": ""
+    }
+  ],
+  "pasos": [
+    {
+      "paso": "1",
+      "descripcion": "-Comenzamos colocando la levadura en el agua tibia y disolver. Reservamos mientras preparamos el resto de los ingredientes, hasta que espume.."
+    },
+    {
+      "paso": "2",
+      "descripcion": "-Luego, disolvemos la grasa (puede ser al microondas) y dejamos que entibie, no debe estar caliente al agregarla a la masa.."
+    },
+    {
+      "paso": "3",
+      "descripcion": "- Vamos a hacer en un bol, una corona con la harina mezclada con el azúcar y poner la sal en los bordes. Es importante que esté en el borde y no en el centro ya que no debe tocar la levadura.."
+    },
+    {
+      "paso": "4",
+      "descripcion": "-Después vamos a agregar en el centro el agua con la levadura y unir bien, con la mano.."
+    },
+    {
+      "paso": "5",
+      "descripcion": "-Toca ahora incorporar la grasa a temperatura ambiente y formar la masa."
+    },
+    {
+      "paso": "6",
+      "descripcion": "-Una vez hecho eso, pasamos a la mesada y amasamos unos minutos, hasta que tengamos una masa bien lisa."
+    },
+    {
+      "paso": "7",
+      "descripcion": "- Estiramos la masa y la doblamos en tres partes. Volvemos a estirar. La idea es repetir este proceso un par de veces."
+    },
+    {
+      "paso": "8",
+      "descripcion": "-Estiramos la masa por última vez en una capa de unos 5mm.."
+    },
+    {
+      "paso": "9",
+      "descripcion": "-Cortamos los bizcochitos de la forma deseada. Pueden ser redondos o, más fácil, cuadrados, con un cuchillo."
+    },
+    {
+      "paso": "10",
+      "descripcion": "-Nos queda pincelar con grasa derretida y espolvorear con azúcar sobre la grasa. Recuerden rociar con unas gotitas de agua para que caramelice."
+    },
+    {
+      "paso": "11",
+      "descripcion": "-Finalmente, horneamos a temperatura fuerte unos 10-15 minutos hasta que se vean dorados."
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f6513e587324b2950a4d8f1"
+  },
+  "id": 12,
+  "dificultad": 3,
+  "titulo": " Montaditos de berenjena y tomate",
+  "imagen": "PlatosComida/montaditosDeBerenjenaYTomate.png",
+  "usuario": 1,
+  "calificacion": [
+    2,
+    2,
+    2,
+    1,
+    5
+  ],
+  "ingredientes": [
+    {
+      "nombre": "Polente",
+      "cantidad": 1,
+      "unidad": "taza"
+    },
+    {
+      "nombre": "Berenjena",
+      "cantidad": 1,
+      "unidad": ""
+    },
+    {
+      "nombre": "Tomate",
+      "cantidad": 1,
+      "unidad": ""
+    },
+    {
+      "nombre": "Huevo",
+      "cantidad": 1,
+      "unidad": ""
+    },
+    {
+      "nombre": "Queso rallado",
+      "cantidad": 0.5,
+      "unidad": "taza"
+    },
+    {
+      "nombre": "Queso rulo de cabra (o roquefort)",
+      "cantidad": null,
+      "unidad": ""
+    },
+    {
+      "nombre": "Ciboulette picado",
+      "cantidad": null,
+      "unidad": ""
+    },
+    {
+      "nombre": "Aceite de oliva",
+      "cantidad": null,
+      "unidad": ""
+    },
+    {
+      "nombre": "Sal y pimienta",
+      "cantidad": null,
+      "unidad": ""
+    }
+  ],
+  "pasos": [
+    {
+      "paso": "1",
+      "descripcion": "- Preparar la polenta como indica el paquete con un poco menos de agua para que quede más firme."
+    },
+    {
+      "paso": "2",
+      "descripcion": "-Una vez que la polenta está hecha, agregar el queso rallado. Dejar enfriar."
+    },
+    {
+      "paso": "3",
+      "descripcion": "-Una vez fría (o tibia), agregar el huevo y salar. Revolver bien."
+    },
+    {
+      "paso": "4",
+      "descripcion": "-En una plancha caliente, ir poniendo cucharadas de polenta y aplastar. Quedarán como pequeñas tortitas. Cuando estén doradas de un lado, darlas vuelta. Se desprenden fácil."
+    },
+    {
+      "paso": "5",
+      "descripcion": "-Berenjenas: cortarlas en rodajas gruesas, mojarlas de ambos lados con aceite y hacerlas a la plancha, hasta dorar de ambos lados."
+    },
+    {
+      "paso": "6",
+      "descripcion": "-Armado del aperitivo: Poner encima de cada tortita una rodaja de berenjena asada, una de tomate y un poco de queso desmenuzado por encima. Llover con ciboulette picado."
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f7e38df13ecc942404ed48d"
+  },
+  "id": 13,
+  "dificultad": 3,
+  "titulo": "Alfajores de maicena sin gluten",
+  "imagen": "PlatosComida/alfajoresDeMaicena.png",
+  "usuario": 4,
+  "calificacion": [],
+  "ingredientes": [
+    {
+      "nombre": "Harina de arroz",
+      "cantidad": 1,
+      "unidad": "taza"
+    },
+    {
+      "nombre": "Maicena",
+      "cantidad": 1,
+      "unidad": "taza"
+    },
+    {
+      "nombre": "Ralladura de limon",
+      "cantidad": 1,
+      "unidad": "cucharada"
+    },
+    {
+      "nombre": "Vainilla",
+      "cantidad": 1,
+      "unidad": "cucharada"
+    },
+    {
+      "nombre": "Sal",
+      "cantidad": 1,
+      "unidad": "Pizca"
+    },
+    {
+      "nombre": "Azucar",
+      "cantidad": 0.5,
+      "unidad": "taza"
+    },
+    {
+      "nombre": "Huevos",
+      "cantidad": 2,
+      "unidad": ""
+    },
+    {
+      "nombre": "Manteca blanda",
+      "cantidad": 100,
+      "unidad": "g"
+    },
+    {
+      "nombre": "Goma xantica",
+      "cantidad": 1,
+      "unidad": "cucharada"
+    },
+    {
+      "nombre": "Royal",
+      "cantidad": 1,
+      "unidad": "cucharada"
+    },
+    {
+      "nombre": "Dulce de leche",
+      "cantidad": 400,
+      "unidad": "g"
+    },
+    {
+      "nombre": "Coco rallado",
+      "cantidad": 20,
+      "unidad": "g"
+    }
+  ],
+  "pasos": [
+    {
+      "paso": "1",
+      "descripcion": "-Colocar en un recipiente la manteca blanda y azúcar."
+    },
+    {
+      "paso": "2",
+      "descripcion": "-Batir bien hasta que quede bien integrado."
+    },
+    {
+      "paso": "3",
+      "descripcion": "-Ir poniendo los huevos 1 primero y luego el otro, 1 tapita de vainilla y ralladura de medio limón, batiendo bien con batidora."
+    },
+    {
+      "paso": "4",
+      "descripcion": "-Luego le tamisamos todos los ingredientes secos y unir sin amasar con nuestras manos muy despacio y delicado. Sin aplastar para que queden bien esponjosos."
+    },
+    {
+      "paso": "5",
+      "descripcion": "-Colocar la masa en el frezzer 15 minutos, luego quitamos y ponemos harina en una mesada y sobre la masa."
+    },
+    {
+      "paso": "6",
+      "descripcion": "-Estirar con un palote y mucha paciencia despacio, dejando 1 cm de grosor, cortamos con un cortador redondito."
+    },
+    {
+      "paso": "7",
+      "descripcion": "-Luego al horno precalentado a fuego alto por 8 min."
+    },
+    {
+      "paso": "8",
+      "descripcion": "-Se sacan del horno y se dejan enfriar!, luego armarlos con dulce de leche y coco rallado en sus bordes.."
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f7e392c13ecc942404ed48e"
+  },
+  "id": 14,
+  "dificultad": 3,
+  "titulo": "Lasagna de carne",
+  "imagen": "PlatosComida/pastasCaseras.png",
+  "usuario": 2,
+  "calificacion": [],
+  "ingredientes": [
+    {
+      "nombre": "Carne de vaca",
+      "cantidad": 500,
+      "unidad": "g"
+    },
+    {
+      "nombre": "Panceta",
+      "cantidad": 200,
+      "unidad": "g"
+    },
+    {
+      "nombre": "Zanahoria",
+      "cantidad": 1,
+      "unidad": ""
+    },
+    {
+      "nombre": "Cebolla",
+      "cantidad": 2,
+      "unidad": ""
+    },
+    {
+      "nombre": "Puerro",
+      "cantidad": 1,
+      "unidad": ""
+    },
+    {
+      "nombre": "Apio",
+      "cantidad": 2,
+      "unidad": ""
+    },
+    {
+      "nombre": "Morron rojo",
+      "cantidad": 1,
+      "unidad": ""
+    },
+    {
+      "nombre": "Vino Tinto",
+      "cantidad": 1,
+      "unidad": "Taza"
+    },
+    {
+      "nombre": "Lata tomate perita pelados",
+      "cantidad": 1,
+      "unidad": "Lata"
+    },
+    {
+      "nombre": "Sal",
+      "cantidad": null,
+      "unidad": "A gusto"
+    },
+    {
+      "nombre": "Pimienta",
+      "cantidad": null,
+      "unidad": "A gusto"
+    },
+    {
+      "nombre": "Azucar",
+      "cantidad": 1,
+      "unidad": "Pizca"
+    },
+    {
+      "nombre": "Aceite de oliva",
+      "cantidad": null,
+      "unidad": "c/n"
+    },
+    {
+      "nombre": "Huevos",
+      "cantidad": 2,
+      "unidad": ""
+    },
+    {
+      "nombre": "Harina 0000",
+      "cantidad": 200,
+      "unidad": "g"
+    },
+    {
+      "nombre": "Queso parmesano",
+      "cantidad": null,
+      "unidad": "c/n"
+    },
+    {
+      "nombre": "Leche",
+      "cantidad": 500,
+      "unidad": "g"
+    },
+    {
+      "nombre": "Manteca",
+      "cantidad": 50,
+      "unidad": "g"
+    },
+    {
+      "nombre": "Nuez moscada",
+      "cantidad": null,
+      "unidad": "c/n"
+    }
+  ],
+  "pasos": [
+    {
+      "paso": "1",
+      "descripcion": "-Limpiar la panceta de piel y cortarlo en cuadraditos ponerlo en una cacerola y dejarlo dorar mientras cortamos las verduras."
+    },
+    {
+      "paso": "2",
+      "descripcion": "-Cortar la cebolla, la zanahoria y el morrón en cuadrados chiquitos cuándo la panceta cambia de color agregarle un chorrito de aceite de oliva y las verduras, dejar que se cocinen hasta que las verduras se transparenten!."
+    },
+    {
+      "paso": "3",
+      "descripcion": "-Mientras se cocinan las verduras, cortar la carne a cuchillo bien chiquito y agregarle a la preparación anterior, cuando la carne cambie de color, agregar el vaso de vino tinto y dejarlo cocer por 5 minutos para que el alcohol se evapore."
+    },
+    {
+      "paso": "4",
+      "descripcion": "-Agregarle la lata de tomate perita y el jugo que viene con ellas... agregar 3 vasos de agua caliente y dejarlo cocer por 3 hs a fuego lento...revolver cada tanto y controlar que no se pegue o se quede sin agua...la cocción es lenta pero el sabor final es muy bueno."
+    },
+    {
+      "paso": "5",
+      "descripcion": "-En un bowl poner la harina, los huevos, un chorrito de aceite, la sal y mezclar hasta que todos los ingredientes se integren, dejar reposar por 20' luego estirar con palote o pasta linda, cortar en rectángulos del tamaño que deseen y hervir en abundante agua, dejarlas enfriar sobre un trapo seco y limpio...hasta el momento de armar."
+    },
+    {
+      "paso": "6",
+      "descripcion": "-Salsa Blanca: derretir la manteca en una cacerola, agregarle la harina e ir integrando con batidora de alambre, agregarle poco a poco la leche y revolver hasta que se espese...dejar reposar por 10 minutos luego de apagar...agregarle la nuez moscada y sal a gusto."
+    },
+    {
+      "paso": "7",
+      "descripcion": "-Para armar yo usé una pyrex rectangular...lo unté con un poco de aceite en aerosol, le agregué 2 cucharadas de salsa Blanca, acomodé la masa de lasagna y cubrí con una capa de boloñesa luego 2 cucharas de salsa Blanca y otra vez masa...me salieron 4 capas de masa y relleno, en la última le puse la salsa Blanca y abundante queso parmesano...lo llevé al horno por 45' y luego lo dejé reposar por 15' antes de servir!! Espero la disfruten."
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f7e397713ecc942404ed48f"
+  },
+  "id": 15,
+  "dificultad": 3,
+  "titulo": "Pescado al pomelo",
+  "imagen": "PlatosComida/pescadoAlPomelo.png",
+  "usuario": 2,
+  "calificacion": [
+    3
+  ],
+  "ingredientes": [
+    {
+      "nombre": "Filete de pescado",
+      "cantidad": 0.5,
+      "unidad": "kg"
+    },
+    {
+      "nombre": "Margarina o manteca",
+      "cantidad": null,
+      "unidad": "c/n"
+    },
+    {
+      "nombre": "Sal",
+      "cantidad": null,
+      "unidad": "a gusto"
+    },
+    {
+      "nombre": "Pimienta",
+      "cantidad": null,
+      "unidad": "a gusto"
+    },
+    {
+      "nombre": "Crema de leche",
+      "cantidad": 150,
+      "unidad": "cc"
+    },
+    {
+      "nombre": "Almidon de maiz",
+      "cantidad": 1,
+      "unidad": "cucharada"
+    }
+  ],
+  "pasos": [
+    {
+      "paso": "1",
+      "descripcion": "-Saltear los filetes en la margarina o manteca vuelta y vuelta, salpimentar.Agregar el jugo de un pomelo dejar cocinar unos 3 minutos.Retirar, reservar."
+    },
+    {
+      "paso": "2",
+      "descripcion": "-En la sartén agregar la crema al líquido que quedó de la cocción y adicionar la cucharada de almidón de maíz disuelta en un poco de agua. Dejar hervir un minuto."
+    },
+    {
+      "paso": "3",
+      "descripcion": "-Al tomar consistencia, volver a colocar los filetes dejando unos 5 minutos; más o menos."
+    },
+    {
+      "paso": "4",
+      "descripcion": "-Antes de servir, cortar a vivo rodajas del pomelo restante, agregarlo por arriba y servir."
+    },
+    {
+      "paso": "5",
+      "descripcion": "-Variantes que surgen;hice la receta con un 2 pomelos amarillos y una naranja(utilizando los gajos de pomelo). Agregué cúrcuma, toque de aceite picante.Terminé la receta al horno por unos minutos y al servir puse los gajos de fruta."
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f7e39c713ecc942404ed490"
+  },
+  "id": 16,
+  "dificultad": 2,
+  "titulo": "Pollo a la crema de cebollas",
+  "imagen": "PlatosComida/polloCremaCebolla.png",
+  "usuario": 2,
+  "calificacion": [
+    3,
+    3,
+    5
+  ],
+  "ingredientes": [
+    {
+      "nombre": "Pechugas de pollo",
+      "cantidad": 1,
+      "unidad": "kg"
+    },
+    {
+      "nombre": "Cebollas",
+      "cantidad": 4,
+      "unidad": ""
+    },
+    {
+      "nombre": "Sal",
+      "cantidad": null,
+      "unidad": "A gusto"
+    },
+    {
+      "nombre": "Pimeton dulce o ahumado",
+      "cantidad": null,
+      "unidad": "A gusto"
+    },
+    {
+      "nombre": "Crema de leche",
+      "cantidad": 200,
+      "unidad": "ml"
+    },
+    {
+      "nombre": "Agua",
+      "cantidad": 200,
+      "unidad": "ml"
+    },
+    {
+      "nombre": "Caldo de gallina",
+      "cantidad": 1,
+      "unidad": ""
+    },
+    {
+      "nombre": "Harina",
+      "cantidad": 2,
+      "unidad": "cucharada"
+    },
+    {
+      "nombre": "Queso rallado",
+      "cantidad": null,
+      "unidad": "A gusto"
+    }
+  ],
+  "pasos": [
+    {
+      "paso": "1",
+      "descripcion": "-Cocinar las cebollas cortadas en aros finos durante 15 a 20 minutos, sazonar con sal y pimienta. Espolvorear con harina, agregar crema y agua, el caldito. Cocinar 5 minutos. Pimentón."
+    },
+    {
+      "paso": "2",
+      "descripcion": "-Dorar para sellar el pollo, colocar en una fuente para horno, cubrir con la salsa de cebollas, espolvorear con queso, cocinar a 200 grados durante 25 minutos."
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f7e3a2713ecc942404ed491"
+  },
+  "id": 17,
+  "dificultad": 2,
+  "titulo": "Milhojas de berenjenas",
+  "imagen": "PlatosComida/milhojasDeBerenjena.png",
+  "usuario": 0,
+  "calificacion": [],
+  "ingredientes": [
+    {
+      "nombre": "Berenjenas",
+      "cantidad": 2,
+      "unidad": ""
+    },
+    {
+      "nombre": "Jamon cocido",
+      "cantidad": 150,
+      "unidad": "g"
+    },
+    {
+      "nombre": "Queso de barra",
+      "cantidad": 150,
+      "unidad": "g"
+    },
+    {
+      "nombre": "Zanahoria",
+      "cantidad": 1,
+      "unidad": ""
+    },
+    {
+      "nombre": "Cebolla",
+      "cantidad": 1,
+      "unidad": ""
+    },
+    {
+      "nombre": "Ajo",
+      "cantidad": 1,
+      "unidad": "diente"
+    },
+    {
+      "nombre": "Morron",
+      "cantidad": 0.5,
+      "unidad": ""
+    },
+    {
+      "nombre": "Tomates",
+      "cantidad": 5,
+      "unidad": ""
+    },
+    {
+      "nombre": "Caldo light s/sal ",
+      "cantidad": 1,
+      "unidad": "Taza"
+    },
+    {
+      "nombre": "Perejil",
+      "cantidad": 1,
+      "unidad": "c/n"
+    },
+    {
+      "nombre": "Sal",
+      "cantidad": 1,
+      "unidad": "c/n"
+    },
+    {
+      "nombre": "Pimienta",
+      "cantidad": 1,
+      "unidad": "c/n"
+    },
+    {
+      "nombre": "Queso rallado",
+      "cantidad": 30,
+      "unidad": "g"
+    }
+  ],
+  "pasos": [
+    {
+      "paso": "1",
+      "descripcion": "-Pelar los tomates en agua hirviendo. Cortarlos en cubos pequeños. Pelar, lavar y cortar la cebolla. Lavar y cortar el ají. Picar el diente de ajo. Pelar, lavar y rallar la zanahoria. Rehogar en agua todos las verduras, una vez tiernas agregar el tomate. Condimentar con sal, pimienta. Agregar una taza de caldo caliente, revolver. Cocinar durante 20 minutos a fuego moderado. Agregar agua si es necesario. Una vez cocida la salsa, licuar si es posible (no es necesario hacerlo)."
+    },
+    {
+      "paso": "2",
+      "descripcion": "-Pelar las berenjenas y cortarlas a lo largo con un grosor de 3mm (finitas)."
+    },
+    {
+      "paso": "3",
+      "descripcion": "-Pincelar una fuente para horno con aceite, o usar una de teflón. Colocar un cucharón de salsa y esparcir por toda la superficie."
+    },
+    {
+      "paso": "4",
+      "descripcion": "-Colocar un piso de berenjenas, cubrir con salsa, y colocar un piso de jamón. Espolvorear con perejil picado fresco."
+    },
+    {
+      "paso": "5",
+      "descripcion": "-Colocar un piso de berenjenas, cubrir con salsa, y colocar un piso de queso. Espolvorear con perejil picado fresco. Repetir los pasos hasta terminar los ingredientes."
+    },
+    {
+      "paso": "6",
+      "descripcion": "-Terminar cubriendo con salsa y espolvorear con queso rallado. Llevar a horno durante una hora aprox (hasta que estén tiernas las berenjenas). Si la preparación se seca demasiado, agregar agua o salsa a la fuente."
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f7e3a5c13ecc942404ed492"
+  },
+  "id": 18,
+  "dificultad": 4,
+  "titulo": "Bistecs a la cerveza",
+  "imagen": "PlatosComida/bistecsALaCerveza.png",
+  "usuario": 0,
+  "calificacion": [
+    3,
+    3,
+    4
+  ],
+  "ingredientes": [
+    {
+      "nombre": "bisteces de res",
+      "cantidad": 250,
+      "unidad": "gr"
+    },
+    {
+      "nombre": "bisteces de cerdo",
+      "cantidad": 250,
+      "unidad": "gr"
+    },
+    {
+      "nombre": "cebolla",
+      "cantidad": 1,
+      "unidad": ""
+    },
+    {
+      "nombre": "chiles serranos",
+      "cantidad": 3,
+      "unidad": ""
+    },
+    {
+      "nombre": "calabazas",
+      "cantidad": 2,
+      "unidad": ""
+    },
+    {
+      "nombre": "cerveza clara",
+      "cantidad": 2,
+      "unidad": "tazas"
+    },
+    {
+      "nombre": "aceite",
+      "cantidad": 2,
+      "unidad": "cucharadas"
+    },
+    {
+      "nombre": "peregil picado",
+      "cantidad": 1,
+      "unidad": "cucharada"
+    }
+  ],
+  "pasos": [
+    {
+      "paso": "1",
+      "descripcion": "-Sofrie la cebolla y los chiles."
+    },
+    {
+      "paso": "2",
+      "descripcion": "-Añade los bisteces."
+    },
+    {
+      "paso": "3",
+      "descripcion": "-Cocina por 5 minutos."
+    },
+    {
+      "paso": "4",
+      "descripcion": "-Vierte la cerveza y mezcla."
+    },
+    {
+      "paso": "5",
+      "descripcion": "-Tapa y cocina por 10 minutos."
+    },
+    {
+      "paso": "6",
+      "descripcion": "-Agrega las calabazas."
+    },
+    {
+      "paso": "7",
+      "descripcion": "-Agrega las calabazas."
+    },
+    {
+      "paso": "8",
+      "descripcion": "-Mezcla y cocina por 10 minutos."
+    },
+    {
+      "paso": "9",
+      "descripcion": "-Sirve y espolvorea el peregil."
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f7e3a7c13ecc942404ed493"
+  },
+  "id": 19,
+  "dificultad": 2,
+  "titulo": "pizza cuatro quesos",
+  "imagen": "PlatosComida/pizzaCuatroQuesos.png",
+  "usuario": 0,
+  "calificacion": [
+    3,
+    2
+  ],
+  "ingredientes": [
+    {
+      "nombre": "masa de pizza",
+      "cantidad": 400,
+      "unidad": "gr"
+    },
+    {
+      "nombre": "aceite de oliva",
+      "cantidad": 15,
+      "unidad": "ml"
+    },
+    {
+      "nombre": "salsa de tomate",
+      "cantidad": 150,
+      "unidad": "gr"
+    },
+    {
+      "nombre": "oregano",
+      "cantidad": 3,
+      "unidad": "cucharadas"
+    },
+    {
+      "nombre": "queso mozzarella",
+      "cantidad": 250,
+      "unidad": "gr"
+    },
+    {
+      "nombre": "Queso azul",
+      "cantidad": 100,
+      "unidad": "gr"
+    },
+    {
+      "nombre": "queso parmesano",
+      "cantidad": 100,
+      "unidad": "gr"
+    },
+    {
+      "nombre": "queso suave",
+      "cantidad": 100,
+      "unidad": "gr"
+    }
+  ],
+  "pasos": [
+    {
+      "paso": "1",
+      "descripcion": "-Precalentar el horno a 250º C."
+    },
+    {
+      "paso": "2",
+      "descripcion": "-Espolvorear con harina la encimera. Estirar la masa con el rodillo de manera que quede fina."
+    },
+    {
+      "paso": "3",
+      "descripcion": "-Añadir la salsa de tomate con una cuchara."
+    },
+    {
+      "paso": "4",
+      "descripcion": "-Espolvorear con el oregano picado."
+    },
+    {
+      "paso": "5",
+      "descripcion": "-Meter la base de la pizza al horno sobre una plancha de metal. Bajar la temperatura del horno a 200º C."
+    },
+    {
+      "paso": "6",
+      "descripcion": "-Dejar por 2-3 y luego volver a subir la temperatura a 250º C."
+    },
+    {
+      "paso": "7",
+      "descripcion": "-Repartir los quesos elegidos encima de la base de la pizza."
+    },
+    {
+      "paso": "8",
+      "descripcion": "-Acabar con el queso mozzarella repartido por toda la superficie."
+    },
+    {
+      "paso": "9",
+      "descripcion": "-Hornear a 230º C por 10 minutos en la bandeja del medio."
+    },
+    {
+      "paso": "10",
+      "descripcion": "-Sacar del horno y añadir un chorrito de aceite de oliva."
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f7e3a8713ecc942404ed494"
+  },
+  "id": 20,
+  "dificultad": 3,
+  "titulo": "cafe helado",
+  "imagen": "PlatosComida/cafeHelado.png",
+  "usuario": 0,
+  "calificacion": [
+    5,
+    3
+  ],
+  "ingredientes": [
+    {
+      "nombre": "nata o crema",
+      "cantidad": 50,
+      "unidad": "ml"
+    },
+    {
+      "nombre": "cafe expreso",
+      "cantidad": 50,
+      "unidad": "ml"
+    },
+    {
+      "nombre": "leche",
+      "cantidad": 25,
+      "unidad": "ml"
+    },
+    {
+      "nombre": "vainilla",
+      "cantidad": 0.5,
+      "unidad": "cucharaditas"
+    },
+    {
+      "nombre": "leche condensada",
+      "cantidad": 3,
+      "unidad": "cucharadas"
+    },
+    {
+      "nombre": "cacao en polvo",
+      "cantidad": 0.5,
+      "unidad": "cucharaditas"
+    },
+    {
+      "nombre": "cubitos de hielo",
+      "cantidad": 100,
+      "unidad": "gr"
+    }
+  ],
+  "pasos": [
+    {
+      "paso": "1",
+      "descripcion": "-Preparar el cafe y dejar que se enfrie."
+    },
+    {
+      "paso": "2",
+      "descripcion": "-Preparar la nata en un bol bien frio."
+    },
+    {
+      "paso": "3",
+      "descripcion": "-Batir la nata y ponerla en una manga pastelera."
+    },
+    {
+      "paso": "4",
+      "descripcion": "-Poner el hielo en el vaso de la batidora y picarlo un poco."
+    },
+    {
+      "paso": "5",
+      "descripcion": "-Añadir leche al cafe."
+    },
+    {
+      "paso": "6",
+      "descripcion": "-Mezclar con la leche condensada y triturar de nuevo."
+    },
+    {
+      "paso": "7",
+      "descripcion": "- Agregar el cacao en polvo y la vainilla."
+    },
+    {
+      "paso": "8",
+      "descripcion": "-Servir en un vaso grande y agregarle la nata encima."
+    }
+  ]
+}]

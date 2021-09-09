@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="88ee7e2c-e40b-4915-8d99-bff5393410b0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maquetado/Productos/spaghettiMatarazzo.png" beforeDir="false" afterPath="$PROJECT_DIR$/Maquetado/Productos/spaghettiMatarazzo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maquetado/Productos/teLaVirginia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maquetado/estilosMiDespensa.css" beforeDir="false" afterPath="$PROJECT_DIR$/Maquetado/estilosMiDespensa.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maquetado/miDespensa.php" beforeDir="false" afterPath="$PROJECT_DIR$/Maquetado/miDespensa.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backEnd/src/main/java/app/web/Controlador.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backEnd/src/main/java/app/web/Controlador.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/pedrofernandez2003/tpIntegrador" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hVVvCdXEWU6jpx8pkAqvKOum2j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\tpIntegrador\DesarrolloWeb\Maquetado" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88ee7e2c-e40b-4915-8d99-bff5393410b0" name="Default Changelist" comment="" />
+      <created>1600096479356</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600096479356</updated>
+      <workItem from="1602781107621" duration="7867000" />
+      <workItem from="1603454817885" duration="659000" />
+      <workItem from="1603476807123" duration="1998000" />
+      <workItem from="1603482719709" duration="1233000" />
+      <workItem from="1603656464717" duration="16542000" />
+      <workItem from="1603820077737" duration="3480000" />
+      <workItem from="1603884324641" duration="11828000" />
+      <workItem from="1603905398695" duration="6412000" />
+      <workItem from="1603973426684" duration="18960000" />
+      <workItem from="1604057898549" duration="9660000" />
+      <workItem from="1604335899736" duration="13526000" />
+      <workItem from="1604366089263" duration="2983000" />
+      <workItem from="1604431210114" duration="6011000" />
+      <workItem from="1604534338128" duration="9310000" />
+      <workItem from="1604626566874" duration="491000" />
+      <workItem from="1604661775536" duration="1925000" />
+      <workItem from="1604782616995" duration="1074000" />
+      <workItem from="1604851141419" duration="1078000" />
+      <workItem from="1604878714210" duration="1796000" />
+      <workItem from="1604880843424" duration="6095000" />
+      <workItem from="1604922483576" duration="11109000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="436" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604500388173">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="436" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1360.728@0.0.1360.728" timestamp="1604500388173" />
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604084570106">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1604084570106" />
+    <state x="477" y="264" key="NewPhpFileDialog" timestamp="1604349801770">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="477" y="264" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1604349801770" />
+    <state x="151" y="0" key="SettingsEditor" timestamp="1604882584593">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1602786908886" />
+    <state x="151" y="0" key="SettingsEditor/0.0.1360.728@0.0.1360.728" timestamp="1604882584593" />
+    <state x="303" y="1" key="search.everywhere.popup" timestamp="1603986137217">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1603986137217" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" log-message="true" suspend="NONE" type="javascript">
+          <url>file://$PROJECT_DIR$/Maquetado/operacionesListas.js</url>
+          <line>120</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,83 @@
+@font-face {
+    font-family: "right"; /* para la foto del carousel */
+    src: url("Fuentes/RIGHT.otf") format("woff2"); /* chrome、firefox */
+}
+
+body {
+    background-image: url(Imagenes/fondoClaro.png);
+}
+
+.partePrincipal {
+    width: 100%;
+    height: 90%;
+}
+
+.parteSuperior {
+    width: 100%;
+    height: 30%;
+    display: block;
+}
+
+.parteInferior {
+    width: 100%;
+    height: 70%;
+    background-color: antiquewhite;
+    display: block;
+    opacity: 0.5;
+}
+
+.nombreLista {
+    margin-left: 5%;
+    font-family: "right";
+    font-size: 200%;
+    position: relative;
+    bottom: auto;
+    top: 60%;
+}
+
+.botonOpciones {
+    display: inline-block;
+    float: right;
+    height: auto;
+    border-radius: 100%;
+    background-color: antiquewhite;
+    margin: 2%;
+    border: none;
+    padding: 8px;
+}
+
+.modal {
+    margin-top: 35%;
+}
+
+.botonOpciones:hover {
+    transition-duration: 0.5s;
+    transform: rotate(180deg);
+}
+
+.inputIngresarItem {
+    width: 92%;
+    display: inline-block;
+    height: auto;
+}
+
+.botonAgregarItem {
+    margin-bottom: 0.5%;
+}
+
+.contenedorParteInferior {
+    height: auto;
+    width: 100%;
+    display: block;
+    background-color: antiquewhite;
+}
+
+.checkboxItem {
+    margin: 1%;
+    margin-top: 2%;
+}
+
+.itemsDeLaLista {
+    font-family: right;
+    padding-right: 2%;
+}

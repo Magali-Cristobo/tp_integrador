@@ -1,0 +1,46 @@
+.titulo {
+    font-family: right;
+    margin: 0 auto;
+}
+
+#tituloMenu{
+    text-align: center;
+    background-color: #F2AF5C;
+}
+
+.bi-calendar-week {
+    margin: 10%;
+}
+
+.elegirReceta{
+    width: 50px;
+    height: 50px;
+    background-size: cover;
+    border: none;
+}
+.filaFondoNaranja{
+    background-color: #F2AF5C;
+    text-align: center;
+}
+.filaFondoBlanco{
+    text-align: center;
+}
+.botonesModal{
+    margin-top: -5px;
+    background-color: #F2AF5C;
+    border: none;
+    border-radius: 16px;
+    font-family: "right";
+    color: white;
+    display: block;
+    height: 40px;
+    width: 116px;
+    margin-left: 2px;
+}
+#verReceta{
+    float: right;
+}
+#eliminarDelMenu{
+    float: left;
+}
+
